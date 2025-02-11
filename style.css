@@ -1,0 +1,131 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+
+.titledivi
+{
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-items: center;
+  justify-content: center;
+  margin: auto;
+  position: fixed;
+  width: 100%;
+}
+
+.Eclass
+{
+color:rgb(255, 0, 0);
+font-size: 70px;
+}
+
+.Pclass
+{
+color:rgb(0, 0, 0);
+font-size: 70px;
+}
+
+.tit
+{
+   background-color: rgb(170, 227, 226);
+   !border-style: solid;
+   border-color: rgb(176, 129, 219);
+   border-width: 3px;
+   !border-radius: 12px;
+   margin: auto ;
+   padding: 2.5% ;
+}
+
+.logo{
+ border-radius: 50%;
+display: flex;
+margin-left: 0;
+position: absolute;
+padding: 5px;
+}
+
+
+.nava
+{
+   display: flex;
+   text-decoration: none;
+   background-color: blue;
+   border-radius: 18px;
+   margin: 5px;
+   padding: 10px;
+   color: white;
+   font-size: 22px;
+}
+.nava:hover
+{
+   display: flex;
+   text-decoration: none;
+   background-color: white;
+   border-radius: 18px;
+   border-style: solid;
+   margin: 10px;
+   padding: 10px;
+   color: black;
+   font-size: 22px;
+}
+
+nav ul
+{
+display: flex;
+list-style-type: none;
+justify-items: center;
+justify-content: space-between;
+align-items: center;
+align-content: center;
+!position: fixed;
+}
+
+.li3
+{
+display: flex;
+margin: 0 10px;
+text-align: center;
+}
+
+nav
+{
+display: flex;
+text-align: center;
+text-align-last: center;
+justify-items: center;
+justify-content: center;
+align-items: cemter;
+align-content: center;
+}
+
+.doubleP
+{
+display: flex;
+position: absolute;
+left: 1%;
+  top: 25%;
+border-radius: 50%;
+}
+
+.FeynmanD
+{
+display: flex;
+position: absolute;
+left: 2%;
+  top: 62%;
+}
+
+.Notice
+{
+	display: inline-block;
+        color:red;
+        font-size: 20px;
+	border-style: solid;
+	border-color: blue;
+	position: right;
+}
+
+
+
